@@ -17,8 +17,9 @@ https://picoctf.org - the "General Skills" section is great for building on foun
 https://overthewire.org/wargames/bandit/ - Great site to start from!
 
 ### OSINT (Open source intelligence)
-https://www.csnp.org/post/a-beginners-guide-to-osint
+[Introduction](https://www.csnp.org/post/a-beginners-guide-to-osint)
 
 ### Web Exploitation 
 [NATAS](https://overthewire.org/wargames/natas/) - Try to get up to level 5!
+
 [TryHackMe](https://tryhackme.com/)
