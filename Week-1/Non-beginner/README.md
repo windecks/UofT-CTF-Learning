@@ -14,7 +14,7 @@ There are tons of tools used to reverse engineer binaries and other executables.
 [Here's a comprehensive guide with resources on reverse engineering.](https://bbinfosec.medium.com/reverse-engineering-resources-beginners-to-intermediate-guide-links-f64c207505ed)
 
 ### Forensics
-Forensics are not always formally defined in CTFs as the forensic process/analysis is used in many difficult challenges. Try out some challenges on picoCTF!
+Forensics are not always formally defined in CTFs as the forensic process/analysis is used in many difficult challenges. Try out some challenges on picoCTF! [I have written writeups on all of the picoCTF 2022 forensics challenges.](https://github.com/Team-Carpe/picoCTF-2022)
 
 ### Cryptography
 [Here's a guide.](https://hashelse.medium.com/cryptography-for-absolute-beginners-3e274f9d6d66)
