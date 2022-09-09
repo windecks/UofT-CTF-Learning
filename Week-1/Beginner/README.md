@@ -14,7 +14,7 @@ picoCTF has a great set of challenges in all categories of CTFs that you can try
 https://picoctf.org - the "General Skills" section is great for building on foundational skills.
 
 ### Bandit
-https://overthewire.org/wargames/bandit/ - Great site to start from!
+[Exercises](https://overthewire.org/wargames/bandit/) - Great site to start from!
 
 ### OSINT (Open source intelligence)
 [Introduction](https://www.csnp.org/post/a-beginners-guide-to-osint)
