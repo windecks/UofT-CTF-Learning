@@ -9,7 +9,7 @@ I encourage you to explore on your own and learn about some cool commands in the
 
 ## Learn some basic skills:
 
-picoCTF has a great set of challenges in all categories of CTFs that you can try out. Register for an account on [picoCTF](https://picoctf.org), then try some out in picoGym. If you encounter any challenges from the `picoCTF 2022` section and are looking for writeups, I have written some on quite a few of the challenges. Here's my repo: https://github.com/Team-Carpe/picoCTF-2022
+picoCTF has a great set of challenges in all categories of CTFs that you can try out. Register for an account on [picoCTF](https://picoctf.org), then try some out in picoGym. picoGym features almost all challenges from previous picoCTF competitions, so they are great practice! If you encounter any challenges from the `picoCTF 2022` section and are looking for writeups, I have written some on quite a few of the challenges. Here's my repo: https://github.com/Team-Carpe/picoCTF-2022
 
 ### picoCTF
 [Exercises](https://play.picoctf.org/practice) - the "General Skills" section is great for building on foundational skills.
