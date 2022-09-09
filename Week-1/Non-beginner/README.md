@@ -17,5 +17,5 @@ There are tons of tools used to reverse engineer binaries and other executables.
 Forensics are not always formally defined in CTFs as the forensic process/analysis is used in many difficult challenges. Try out some challenges on picoCTF!
 
 ### Cryptography
-[Guide](https://hashelse.medium.com/cryptography-for-absolute-beginners-3e274f9d6d66)
+[Here's a guide.](https://hashelse.medium.com/cryptography-for-absolute-beginners-3e274f9d6d66)
 You can also practice cryptography on picoCTF.
