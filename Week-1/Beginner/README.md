@@ -3,7 +3,8 @@
 Prepare your machine for CTFs!
 1. Install a Virtual Machine (VM) on your computer - popular options are Oracle's Virtualbox, or VMware. A virtual machine allows you to run a containerized operating system in your host environment!
 2. Install linux on the VM - choose a distribution of your choice: Ubuntu, Linux Mint, and Manjaro are popular options. There are many guides on how to download the distributions (usually in .iso form) and install them on the respective VMs.
-3. Play around with the VM! One of the most important things in CTFs is using the command line. The command line is the most direct interface a user has with the underlying operating system (computer). Here's a guide on how to use the Linux command line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+3. Play around with the VM! One of the most important things in CTFs is using the command line. The command line is the most direct interface a user has with the underlying operating system (computer). [Here's a guide on how to use the Linux command line.](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+
 I encourage you to explore on your own and learn about some cool commands in the command line. How do you install external packages? Here's a challenge: Can you install and use `neofetch`?
 
 ## Learn some basic skills:
