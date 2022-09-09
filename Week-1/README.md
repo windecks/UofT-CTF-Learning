@@ -1,4 +1,4 @@
-### Week 1
+# Week 1
 
 
 
@@ -12,7 +12,7 @@ In some challenges, you may feel stuck or confused. Google is your best friend i
 
 Note that you do not need to complete all exercises. Choose a category you like, and work from there! Every team member in a CTF has a role, and usually each will specialize in a specific category.
 
-### Beginner
+# Beginner
 
 Prepare your machine for CTFs!
 1. Install a Virtual Machine (VM) on your computer - popular options are Oracle's Virtualbox, or VMware. A virtual machine allows you to run a containerized operating system in your host environment!
@@ -24,36 +24,36 @@ I encourage you to explore on your own and learn about some cool commands in the
 
 picoCTF has a great set of challenges in all categories of CTFs that you can try out. Register for an account on https://picoctf.org, then try some out in picoGym. If you encounter any challenges from the `picoCTF 2022` section and are looking for writeups, I have written some on quite a few of the challenges. Here's my repo: https://github.com/Team-Carpe/picoCTF-2022
 
-# picoCTF
+### picoCTF
 https://picoctf.org - the "General Skills" section is great for building on foundational skills.
 
-# Bandit
+### Bandit
 https://overthewire.org/wargames/bandit/ - Great site to start from!
 
-# OSINT (Open source intelligence)
+### OSINT (Open source intelligence)
 https://www.csnp.org/post/a-beginners-guide-to-osint
 
-# Web Exploitation 
+### Web Exploitation 
 NATAS (https://overthewire.org/wargames/natas/) - Try to get up to level 5!
 TryHackMe (https://tryhackme.com/)
 
-### Non-beginner
+# Non-beginner
 
-# Web exploitation
+### Web exploitation
 NATAS (https://overthewire.org/wargames/natas/) - Can you get to level 10?
 
-# Binary Exploitation (pwn)
+### Binary Exploitation (pwn)
 Introductory guide: https://www.hoppersroppers.org/roadmap/training/pwning.html
 Repository with some basic challenges (the techniques are included so google them as you progress!): https://github.com/tripoloski1337/learn-to-pwn
 
-# Reverse Engineering
+### Reverse Engineering
 There are tons of tools used to reverse engineer binaries and other executables. IDA, Ghidra, dnSpy, and many other decompilers are very popular in this field. 
 Here's a comprehensive guide with resources on reverse engineering: https://bbinfosec.medium.com/reverse-engineering-resources-beginners-to-intermediate-guide-links-f64c207505ed
 
-# Forensics
+### Forensics
 Forensics are not always formally defined in CTFs as the forensic process/analysis is used in many difficult challenges. Try out some challenges on picoCTF!
 
-#Cryptography
+### Cryptography
 https://hashelse.medium.com/cryptography-for-absolute-beginners-3e274f9d6d66
 You can also practice cryptography on picoCTF.
 
